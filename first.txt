@@ -1,2 +1,3 @@
 Hello, malyshkin!
 Some more text.
+Added other some text!
